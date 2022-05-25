@@ -92,7 +92,7 @@ With additional benefits for everyone (such as SiteGround's own security and fre
 Siteground vs. Bluehost - WordPress integration: judgment
 WordPress recommends both, which is impressive! But with WordPress describing Bluehost as offering the "perfect WordPress platform," the winner is clear. Bluehost is at the top of the list.
 
-[SiteGround vs Bluehost]: https://quickserp.com/siteground-vs-bluehost/
+[SiteGround vs Bluehost](https://quickserp.com/siteground-vs-bluehost/)
 
 More information:
 
